@@ -1,5 +1,5 @@
 # TextAdventure_1602
-Text adventure game for the Arduno with LCD Keypad shield.
+Text adventure game for the Arduino with LCD Keypad shield.
 
 Adapted from the T6963C version by warmcat (http://www.instructables.com/id/Text-Based-Multi-Choice-Adventure-Game/).
 
